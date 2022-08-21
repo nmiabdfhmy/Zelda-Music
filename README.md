@@ -29,11 +29,12 @@
 - `/vpause` - pause video stream
 - `/vresume` - resume video stream
 - `/vskip` - skip video stream
+- `/filter [keyword] <reply to messsage>` - make autoreply filter in group
+- `/all [text]` - mention or tag all group member
 
 ### Commands for Sudo Users ⚔️
-- `/userbotleaveall` - remove assistant from all chats
-- `/broadcast <reply to message>` - globally brodcast replied message to all chats
-- `/pmpermit [on/off]` - enable/disable pmpermit message
+- `/share <reply to message>` - globally brodcast replied message to all chats
+- `/gban <reply to message/username/userid>` - global ban users
 
 
 ## Generate String Session
