@@ -36,13 +36,12 @@
 - `/pmpermit [on/off]` - enable/disable pmpermit message
 
 
-## String Session :
-[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://replit.com/@rizkyhmdanii16/StringSession)
+## Generate String Session
+<a href="https://replit.com/@fhmyngrh/Zelda-String-Session"><img src="https://img.shields.io/badge/RUN-Get__String-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
 
-The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
-<p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/nmiabdfhmy/Zelda-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+### Deoloy To Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nmiabdfhmy/Zelda-Music) 
 
 ## Credits
 
